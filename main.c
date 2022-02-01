@@ -58,12 +58,12 @@ switch (j)
 	case 1:
 	  
  
-printf ("Enter book name = ");
+printf ("Enter book name = Hunger Games");
 	  
 scanf ("%s", l[i].bk_name);
 	  
  
-printf ("Enter author name = ");
+printf ("Enter author name = Hamza");
 	  
 scanf ("%s", l[i].author);
 	  
